@@ -25,6 +25,3 @@
 #        print(x * "*")
 
 
-for i in range(0, 1): #wysokosc
-     for j in range(1, 3): #szerokosc
-          print(j "*")   #wyświetlamy 
