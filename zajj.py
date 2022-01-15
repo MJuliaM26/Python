@@ -24,14 +24,7 @@
 #    for x in range(1, 6):
 #        print(x * "*")
 
-#z1
-#number = int(input('number: '))
 
-#if number < 1: 
-#    print("True")
-#else:
-#    print("False")
-
-#lista = [12, 5, 1, 64, 3, 1, 56, 3, 1]
-#najmniejsza = None
-#for i in lista:
+for i in range(0, 1): #wysokosc
+     for j in range(1, 3): #szerokosc
+          print(j "*")   #wyświetlamy 
